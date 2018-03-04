@@ -1,5 +1,7 @@
 package com.semanticsquare.thrillio.constants;
 
+
+//User constants 
 public class UserType {
 	private UserType () {}
 	
